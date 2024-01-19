@@ -178,6 +178,9 @@ class Language(object):
     KAT = "kat"
     """ Georgian """
 
+    KAZ = "kaz"
+    """ Kazakh """
+
     KIR = "kir"
     """ Kirghiz """
 
@@ -354,6 +357,7 @@ class Language(object):
         KAL: u"Greenlandic",
         KAN: u"Kannada",
         KAT: u"Georgian",
+        KAZ: u"Kazakh",
         KIR: u"Kirghiz",
         KOR: u"Korean",
         KUR: u"Kurdish",

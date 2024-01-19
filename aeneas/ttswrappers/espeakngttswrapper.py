@@ -192,6 +192,9 @@ class ESPEAKNGTTSWrapper(BaseTTSWrapper):
     KAT = Language.KAT
     """ Georgian (not tested) """
 
+    KAZ = Language.KAZ
+    """ Kazakh (not tested) """
+
     KIR = Language.KIR
     """ Kirghiz (not tested) """
 
@@ -500,6 +503,9 @@ class ESPEAKNGTTSWrapper(BaseTTSWrapper):
     KU = "ku"
     """ Kurdish (not tested) """
 
+    KK = "kk"
+    """ Kazakh (not tested) """
+
     KY = "ky"
     """ Kirghiz (not tested) """
 
@@ -670,6 +676,7 @@ class ESPEAKNGTTSWrapper(BaseTTSWrapper):
         KAL: u"Greenlandic (not tested)",
         KAN: u"Kannada (not tested)",
         KAT: u"Georgian (not tested)",
+        KAZ: u"Kazakh (not tested)",
         KIR: u"Kirghiz (not tested)",
         KUR: u"Kurdish (not tested)",
         LAT: u"Latin",
@@ -770,6 +777,7 @@ class ESPEAKNGTTSWrapper(BaseTTSWrapper):
         KL: u"Greenlandic (not tested)",
         KN: u"Kannada (not tested)",
         KU: u"Kurdish (not tested)",
+        KK: u"Kazakh (not tested)",
         KY: u"Kirghiz (not tested)",
         LA: u"Latin",
         LT: u"Lithuanian",
@@ -951,6 +959,7 @@ class ESPEAKNGTTSWrapper(BaseTTSWrapper):
         KAL: "kl",
         KAN: "kn",
         KAT: "ka",
+        KAZ: "kk",
         KIR: "ky",
         KUR: "ku",
         LAT: "la",
