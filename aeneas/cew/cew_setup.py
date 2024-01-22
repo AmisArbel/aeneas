@@ -47,7 +47,7 @@ CMODULE = Extension(
 
 setup(
     name="cew",
-    version="1.7.4",
+    version="1.7.5",
     description="Python C Extension for synthesizing text with eSpeak.",
     ext_modules=[CMODULE]
 )

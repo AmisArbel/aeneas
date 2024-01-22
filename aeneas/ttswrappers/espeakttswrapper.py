@@ -218,6 +218,9 @@ class ESPEAKTTSWrapper(BaseTTSWrapper):
     RUS = Language.RUS
     """ Russian """
 
+    KAZ = Language.KAZ
+    """ Kazakh (not tested) """
+
     SLK = Language.SLK
     """ Slovak """
 
@@ -458,6 +461,9 @@ class ESPEAKTTSWrapper(BaseTTSWrapper):
     RU = "ru"
     """ Russian """
 
+    KK = "kk"
+    """ Kazakh (not tested) """
+
     SQ = "sq"
     """ Albanian (not tested) """
 
@@ -543,6 +549,7 @@ class ESPEAKTTSWrapper(BaseTTSWrapper):
         POR: u"Portuguese",
         RON: u"Romanian",
         RUS: u"Russian",
+        KAZ: u"Kazakh (not tested)",
         SLK: u"Slovak",
         SPA: u"Spanish",
         SQI: u"Albanian (not tested)",
@@ -619,6 +626,7 @@ class ESPEAKTTSWrapper(BaseTTSWrapper):
         PT_PT: u"Portuguese (Portugal)",
         RO: u"Romanian",
         RU: u"Russian",
+        KK: u"Kazakh (not tested)",
         SQ: u"Albanian (not tested)",
         SK: u"Slovak",
         SR: u"Serbian",
@@ -696,6 +704,7 @@ class ESPEAKTTSWrapper(BaseTTSWrapper):
         PT_PT: "pt-pt",
         RO: "ro",
         RU: "ru",
+        KK: "kk",
         SQ: "sq",
         SK: "sk",
         SR: "sr",
@@ -754,6 +763,7 @@ class ESPEAKTTSWrapper(BaseTTSWrapper):
         POR: "pt",
         RON: "ro",
         RUS: "ru",
+        KAZ: "kk",
         SLK: "sk",
         SPA: "es",
         SQI: "sq",

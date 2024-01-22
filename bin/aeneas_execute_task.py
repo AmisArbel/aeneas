@@ -41,7 +41,7 @@ __copyright__ = """
 """
 __license__ = "GNU AGPL 3"
 __status__ = "Production"
-__version__ = "1.7.4"
+__version__ = "1.7.5"
 
 
 def main():
